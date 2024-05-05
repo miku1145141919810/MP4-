@@ -7,6 +7,8 @@
 您可以在Android Debug Bridge（ADB）中使用以下命令来进行刷机。
 adb shell am start -t "image/*" -a android.intent.action.VIEW
 在运行过后，请找到您下载的刷机包（mp4），然后点击开始运行就行了。
+
+
 English（英语版）
 To use the MP4 flashing method to flash the computer, you need to download a specific flashing package.
 You can look for the download of the flash package on the web, and the file must be in .mp4 format.
@@ -16,6 +18,8 @@ You can use the following command in Android Debug Bridge (ADB) to flash your co
 adb shell am start -t "image/*" -a android.intent.action.VIEW
 After running, find the flash package (mp4) you downloaded and click Start Run.
 （This paragraph is translated and may be incorrectly translated.）
+
+
 Английская версия
 Чтобы использовать метод прошивки MP4 для прошивки компьютера, необходимо загрузить специальный пакет прошивки.
 Вы можете поискать загрузку пакета flash в Интернете, и файл должен быть в .mp4 формате.
